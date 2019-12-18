@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-basics-todo-list-class-based/static/css/main.3fb315ec.chunk.css",
+    "main.js": "/react-basics-todo-list-class-based/static/js/main.3ad0357a.chunk.js",
+    "main.js.map": "/react-basics-todo-list-class-based/static/js/main.3ad0357a.chunk.js.map",
+    "runtime-main.js": "/react-basics-todo-list-class-based/static/js/runtime-main.b0ff4236.js",
+    "runtime-main.js.map": "/react-basics-todo-list-class-based/static/js/runtime-main.b0ff4236.js.map",
+    "static/js/2.46595bb0.chunk.js": "/react-basics-todo-list-class-based/static/js/2.46595bb0.chunk.js",
+    "static/js/2.46595bb0.chunk.js.map": "/react-basics-todo-list-class-based/static/js/2.46595bb0.chunk.js.map",
+    "index.html": "/react-basics-todo-list-class-based/index.html",
+    "precache-manifest.eac72ed84598a63daeb3a47734325490.js": "/react-basics-todo-list-class-based/precache-manifest.eac72ed84598a63daeb3a47734325490.js",
+    "service-worker.js": "/react-basics-todo-list-class-based/service-worker.js",
+    "static/css/main.3fb315ec.chunk.css.map": "/react-basics-todo-list-class-based/static/css/main.3fb315ec.chunk.css.map",
+    "static/js/2.46595bb0.chunk.js.LICENSE": "/react-basics-todo-list-class-based/static/js/2.46595bb0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ff4236.js",
+    "static/js/2.46595bb0.chunk.js",
+    "static/css/main.3fb315ec.chunk.css",
+    "static/js/main.3ad0357a.chunk.js"
+  ]
+}
